@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  font-size: 3rem;
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+.panel_wrapper{
+  display: flex;
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
