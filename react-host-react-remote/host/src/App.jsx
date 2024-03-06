@@ -4,15 +4,12 @@ import ReactDOM from "react-dom";
 import "./index.css";
 
 // import Counter from "remote/Counter";
-import SuperHealth from "remote/SuperHealth";
+import SuperHealth from "remote/superHealth";
 
 const App = () => (
   <div className="container">
     This is PMS - Host
-    <div className="panel_wrapper">
-    <SuperHealth heading="Sandeep"/>
-
-    </div>
+    <SuperHealth firstName="Sandeep"/>
     {/* <Counter/> */}
   </div>
   
