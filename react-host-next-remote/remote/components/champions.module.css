@@ -1,0 +1,13 @@
+.champions_wrapper {
+    background: brown;
+    width: 80%;
+    margin: 5px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    border-radius: 10px;
+}
